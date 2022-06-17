@@ -1,0 +1,6 @@
+#!/bin/bash
+
+groupadd -f tobii
+mkdir -p /opt/tobiipdk/AKYLIN
+mkdir -p /opt/tobiipdk/AKYLIN/bin
+mkdir -p /opt/tobiipdk/AKYLIN/lib

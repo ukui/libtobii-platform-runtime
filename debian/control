@@ -1,0 +1,15 @@
+Source: libtobii-platform-runtime
+Section:libs
+Priority: optional
+Maintainer: liuyang <liuyang@kylinos.cn>
+Build-Depends: debhelper (>= 9),
+               libglib2.0-dev,
+               pkg-config,
+Standards-Version: 3.9.7
+Homepage: https://launchpad.dev
+
+Package: libtobii-platform-runtime
+Architecture: amd64
+Depends: ${misc:Depends},
+         ${shlibs:Depends},
+Description: Tobii aware API

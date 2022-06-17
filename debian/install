@@ -1,0 +1,4 @@
+platform_runtime/extracted_runtime/bin/* /opt/tobiipdk/AKYLIN/bin/
+platform_runtime/extracted_runtime/lib/* /opt/tobiipdk/AKYLIN/lib/
+platform_runtime/extracted_runtime/systemd/tobii-autostart.desktop /etc/xdg/autostart/
+platform_runtime/extracted_runtime/systemd/tobii-sudoer /etc/sudoers.d/

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=sudo /opt/tobiipdk/AKYLIN/bin/platform_runtime_AKYLIN_UB18_x64_service
+Name=tobii-autostart
+Terminal=false
+X-UKUI-AutoRestart=true
+Categories=Application

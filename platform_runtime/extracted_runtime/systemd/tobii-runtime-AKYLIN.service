@@ -1,0 +1,12 @@
+[Unit]
+Description=Tobii platform runtime for AKYLIN
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=0
+ExecStart=/opt/tobiipdk/AKYLIN/bin/platform_runtime_AKYLIN_UB18_x64_service
+StandardOutput=null
+
+[Install]
+WantedBy=multi-user.target

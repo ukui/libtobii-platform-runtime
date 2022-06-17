@@ -1,0 +1,74 @@
+libtobii-platform-runtime (1.4.0kylin9) v101; urgency=low
+
+  * change the wrong of tobii
+
+ -- jiaodian <jiaodian@kylinos.cn>  Fri, 26 Feb 2021 09:06:02 +0800
+
+libtobii-platform-runtime (1.4.0kylin8) v101; urgency=low
+
+  * change the wrong of distance value
+
+ -- jiaodian <jiaodian@kylinos.cn>  Fri, 26 Feb 2021 09:06:02 +0800
+libtobii-platform-runtime (1.4.0kylin7) v101; urgency=low
+
+  * package8
+  * Modify: FOR VC only root's usage, add group tobii and tobii sudoer file
+
+ -- liuyang <liuyang@kylinos.cn>  Fri, 26 Feb 2021 09:06:02 +0800
+libtobii-platform-runtime (1.4.0kylin2) v101; urgency=low
+
+  * package5: fix boot time
+
+ -- liuyang <liuyang@kylinos.cn>  Tue, 23 Feb 2021 17:13:54 +0800
+libtobii-platform-runtime (1.4.0kylin1) v101; urgency=low
+
+  * package 6
+
+ -- liuyang <liuyang@kylinos.cn>  Tue, 23 Feb 2021 17:13:54 +0800
+libtobii-platform-runtime (1.3.0kylin2) v101; urgency=low
+
+  * engineering build package 5
+
+ -- liuyang <liuyang@kylinos.cn>  Wed, 03 Feb 2021 14:55:50 +0800
+libtobii-platform-runtime (1.3.0kylin1) v101; urgency=low
+
+  * engineering build 3
+
+ -- liuyang <liuyang@kylinos.cn>  Wed, 27 Jan 2021 10:46:20 +0800
+libtobii-platform-runtime (1.2.3kylin1) v101; urgency=low
+
+  * offical pre_golden
+
+ -- liuyang <liuyang@kylinos.cn>  Mon, 18 Jan 2021 17:28:47 +0800
+libtobii-platform-runtime (1.2.2kylin1) v101; urgency=low
+
+  * fix haier
+
+ -- liuyang <liuyang@kylinos.cn>  Wed, 13 Jan 2021 16:59:39 +0800
+libtobii-platform-runtime (1.2.1kylin1) v101; urgency=low
+
+  * engineering pre_golden
+
+ -- liuyang <liuyang@kylinos.cn>  Wed, 13 Jan 2021 16:14:02 +0800
+libtobii-platform-runtime (1.2.0kylin1) v101; urgency=low
+
+  * rollback package2
+
+ -- liuyang <liuyang@kylinos.cn>  Wed, 13 Jan 2021 10:49:47 +0800
+libtobii-platform-runtime (1.1.0kylin1) v101; urgency=low
+
+  * engineering pre golden
+  * fix co-existence
+  * fix some bugs of vid/pid
+
+ -- liuyang <liuyang@kylinos.cn>  Tue, 12 Jan 2021 21:17:47 +0800
+libtobii-platform-runtime (1.0.0kylin2) v101; urgency=low
+
+  * remove addtions
+
+ -- liuyang <liuyang@kylinos.cn>  Tue, 22 Dec 2020 19:07:23 +0800
+libtobii-platform-runtime (1.0.0kylin1) v101; urgency=low
+
+  * Tobii runtime beta release
+
+ -- liuyang <liuyang@kylinos.cn>  Fri, 18 Dec 2020 15:20:04 +0800

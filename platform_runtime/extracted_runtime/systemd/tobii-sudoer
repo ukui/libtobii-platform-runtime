@@ -1,0 +1,2 @@
+kylin ALL=(ALL) NOPASSWD: /opt/tobiipdk/AKYLIN/bin/platform_runtime_AKYLIN_UB18_x64_service
+%tobii ALL=(ALL) NOPASSWD: /opt/tobiipdk/AKYLIN/bin/platform_runtime_AKYLIN_UB18_x64_service
